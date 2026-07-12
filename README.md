@@ -26,8 +26,8 @@ Ready-to-use NotebookLM prompt templates for ISTQB exam preparation. Browse, cus
 ## Quick Start (local)
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 Open `http://localhost:5173`.
@@ -35,8 +35,8 @@ Open `http://localhost:5173`.
 ## Build for Production
 
 ```bash
-npm run build
-npm run preview
+pnpm run build
+pnpm run preview
 ```
 
 ## Tech Stack

@@ -1,6 +1,7 @@
 {
   "name": "quizcraftqa-notebooklm",
   "version": "1.0.0",
+  "packageManager": "pnpm@10.28.2",
   "description": "NotebookLM prompt templates for ISTQB exam prep",
   "main": "main.js",
   "scripts": {
@@ -16,13 +17,13 @@
   "license": "MIT",
   "devDependencies": {
     "@vitejs/plugin-react": "^3.1.0",
-    "@vitest/coverage-v8": "^4.1.2",
+    "@vitest/coverage-v8": "^0.34.6",
     "autoprefixer": "^10.4.21",
     "jsdom": "^29.0.1",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.15",
     "vite": "^4.5.3",
-    "vitest": "^4.1.2"
+    "vitest": "^0.34.6"
   },
   "dependencies": {
     "react": "^19.2.0",
