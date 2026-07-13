@@ -23,3 +23,5 @@ secrets.json
 
 # Local AI task notes
 CLAUDE_TASKS.md
+
+repoguard-results/
