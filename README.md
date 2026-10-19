@@ -3,7 +3,7 @@
 [![CI](https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM/actions/workflows/ci.yml/badge.svg)](https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM/actions/workflows/ci.yml)
 [![Deploy](https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM/actions/workflows/deploy.yml/badge.svg)](https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://sudarshanchaudhari.github.io/QuizCraftQA-NotebookLM/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://sudarshanchaudhari.github.io/QuizCraftQANotebookLM/)
 
 Ready-to-use NotebookLM prompt templates for ISTQB exam preparation. Browse, customise with your topic, and copy prompts directly into NotebookLM.
 
@@ -29,7 +29,7 @@ Ready-to-use NotebookLM prompt templates for ISTQB exam preparation. Browse, cus
 ## How to Use
 
 1. Open [NotebookLM](https://notebooklm.google.com) and upload your ISTQB syllabus PDF
-2. Open the [live app](https://sudarshanchaudhari.github.io/QuizCraftQA-NotebookLM/)
+2. Open the [live app](https://sudarshanchaudhari.github.io/QuizCraftQANotebookLM/)
 3. Pick a prompt type, enter your topic, click **Copy prompt**
 4. Paste into the NotebookLM chat
 
